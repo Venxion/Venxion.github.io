@@ -8,10 +8,9 @@ Personal website for engineering projects, coded in HTML/CSS and on GitHub Pages
 
 My website contains projects, skills, and experience, including:
 
-- Project write-ups with problem, approach, and outcome
-- Technical skills across design/CAD, fabrication, and software/controls
+- Project showcases with text, images, and results
 - Work and team experience
-- Downloadable résumé and contact links
+- Résumé and contact info
 
 ## Tech stack
 
