@@ -2,11 +2,11 @@
 
 Personal website for engineering projects, coded in HTML/CSS and on GitHub Pages.
 
-**Live site:** Venxion.github.io 
+**URL:** Venxion.github.io  
 
 ## About
 
-Website contains projects, skills, and experience, including:
+My website contains projects, skills, and experience, including:
 
 - Project write-ups with problem, approach, and outcome
 - Technical skills across design/CAD, fabrication, and software/controls
