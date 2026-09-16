@@ -1,12 +1,12 @@
 # Haven Dao — Personal Website
 
-Personal portfolio site showcasing mechanical and robotics engineering projects, built with plain HTML/CSS and hosted on GitHub Pages.
+Personal website for engineering projects, coded in HTML/CSS and on GitHub Pages.
 
 **Live site:** Venxion.github.io 
 
 ## About
 
-This site highlights selected projects, skills, and experience, including:
+Website contains projects, skills, and experience, including:
 
 - Project write-ups with problem, approach, and outcome
 - Technical skills across design/CAD, fabrication, and software/controls
